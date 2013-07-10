@@ -24,7 +24,7 @@ resources:
   bugtracker: https://github.com/doy/exporter-lexical/issues
   homepage: http://metacpan.org/release/Exporter-Lexical
   repository: git://github.com/doy/exporter-lexical.git
-version: 0.01
+version: 0.02
 x_Dist_Zilla:
   perl:
     version: 5.018000
